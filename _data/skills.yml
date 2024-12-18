@@ -8,12 +8,10 @@
   description: MySQL, MongoDB, Postgres. 
 
 - skill: Web Development
-  description: ReactJS, Redux, NodeJS, GraphQL, TypeScript, JQuery, Material UI, Tailwind CSS, HTML, 
-CSS, Bootstrap, Maplibre gl js.
+  description: ReactJS, Redux, NodeJS, GraphQL, TypeScript, JQuery, Material UI, Tailwind CSS, HTML, CSS, Bootstrap, Maplibre gl js.
 
 - skill: Mobile Application Development
   description: React Native, Native Base, React Native Paper, Nativewind.
 
 - skill: Development Tools
-  description: VS Code, Android Studio, Apollo Playground, Jira, Git, Reactotron, Jenkins, PgAdmin, 
-Docker Desktop.
+  description: VS Code, Android Studio, Apollo Playground, Jira, Git, Reactotron, Jenkins, PgAdmin, Docker Desktop.
