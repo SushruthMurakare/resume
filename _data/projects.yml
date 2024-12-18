@@ -1,16 +1,17 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# Access control system with masked face recognition
+- project: Access control system with masked face recognition
+  role: Developer
+  duration: Dec 2021 &mdash; Jul 2022
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Developed an access control system using Python’s face recognition library to recognize faces even when partially 
+covered, improving security for masked individuals.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# 
+- project: TODO in elementary education
+  role: Developer
+  duration: Dec 2024
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Developed a software for nao robot that can be used in the kindergarten/elementary level school to make learning fun for kids and assist teachers with their daily tasks.
